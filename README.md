@@ -1,6 +1,6 @@
 # DevRadar - Backend
 
-O DevRadar - Backend é uma API RESTFULL desenvolvida durante a Semana Omnistack - 10ª Edição, da Rocketseat. Com essa aplicação é possível cadastrar desenvolvedores consumindo a API do github, listar os desenvolvedores já cadastrados e realizar busca a partir das tecnologias informadas, bem como a localização.
+O DevRadar - Backend é uma API RESTFULL desenvolvida durante a Semana Omnistack - 10ª Edição, da Rocketseat. Desenvolvida utilizando NodeJS, com essa aplicação é possível cadastrar desenvolvedores consumindo a API do github, listar os desenvolvedores já cadastrados e realizar busca a partir das tecnologias informadas, bem como a localização.
 
 A partir do username de uma conta do github, são obtidos nome, biografia e avatar. Cada desenvolvedor possui também uma lista de tecnologias e uma localização (latitude e longitude). Os dados são persistidos no MongoDB Atlas.
 
